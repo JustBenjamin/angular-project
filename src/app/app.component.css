@@ -1,6 +1,7 @@
 .logo img {
   padding: 30px 0;
-  width: 100%;
+  width: 30%;
+  border-radius: 50%;
 }
 
 .resource-list {
